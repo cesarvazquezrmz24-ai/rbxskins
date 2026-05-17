@@ -1,10 +1,18 @@
 [
   {
-    "id":1,
-    "name":"Dark Fallen Valk",
-    "creator":"RBX Premium",
-    "image":"https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/AVATAR1.jpg",
-    "price":120,
-    "verified":true
+    "id": 1,
+    "name": "Dark Fallen Valk",
+    "creator": "RBX Premium",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/AVATAR1.jpg",
+    "price": 120,
+    "verified": true
+  },
+  {
+    "id": 2,
+    "name": "Sammy",
+    "creator": "Void Studios",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar2.jpg",
+    "price": 95,
+    "verified": true
   }
 ]
