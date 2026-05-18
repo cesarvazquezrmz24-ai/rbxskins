@@ -126,5 +126,45 @@
     "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar16.png",
     "price": 115,
     "verified": true
+  },
+  {
+    "id": 17,
+    "name": "Void Angel",
+    "creator": "RBX Heaven",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar17.png",
+    "price": 190,
+    "verified": true
+  },
+  {
+    "id": 18,
+    "name": "Cyber Samurai",
+    "creator": "Neon Studio",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar18.png",
+    "price": 140,
+    "verified": false
+  },
+  {
+    "id": 19,
+    "name": "Dark Hacker",
+    "creator": "SleepyZWo",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar19.png",
+    "price": 155,
+    "verified": true
+  },
+  {
+    "id": 20,
+    "name": "Luxury Valk",
+    "creator": "Elite Market",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar20.png",
+    "price": 260,
+    "verified": true
+  },
+  {
+    "id": 21,
+    "name": "Anime Slayer",
+    "creator": "Anime Wear",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar21.png",
+    "price": 125,
+    "verified": false
   }
 ]
