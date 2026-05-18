@@ -9,162 +9,810 @@
   },
   {
     "id": 2,
-    "name": "Sammy",
-    "creator": "Void Studios",
+    "name": "Neon Shadow Reaper",
+    "creator": "SkinMaster99",
     "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar2.png",
-    "price": 95,
-    "verified": true
+    "price": 450,
+    "verified": false
   },
   {
     "id": 3,
-    "name": "Cyber Ninja",
-    "creator": "RBX Elite",
+    "name": "Crystal Frost Queen",
+    "creator": "AvatarKing",
     "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar3.png",
-    "price": 150,
+    "price": 89,
     "verified": true
   },
   {
     "id": 4,
-    "name": "Toxic Slender",
-    "creator": "Dark Studio",
+    "name": "Blazing Dragon Knight",
+    "creator": "RobloxPro",
     "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar4.png",
-    "price": 88,
-    "verified": false
-  },
-  {
-    "id": 5,
-    "name": "White Valk",
-    "creator": "Snow Labs",
-    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar5.png",
-    "price": 175,
+    "price": 3200,
     "verified": true
   },
   {
+    "id": 5,
+    "name": "Midnight Phantom",
+    "creator": "StyleQueen",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar5.png",
+    "price": 175,
+    "verified": false
+  },
+  {
     "id": 6,
-    "name": "Rich Hood",
-    "creator": "Luxury RBX",
+    "name": "Golden Celestial",
+    "creator": "BlockFashion",
     "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar6.png",
-    "price": 210,
+    "price": 999,
     "verified": true
   },
   {
     "id": 7,
-    "name": "Anime Ghost",
-    "creator": "Anime Wear",
+    "name": "Toxic Venom Lord",
+    "creator": "PixelArtist",
     "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar7.png",
-    "price": 135,
+    "price": 2100,
     "verified": false
   },
   {
     "id": 8,
-    "name": "Void Samurai",
-    "creator": "Shadow Team",
+    "name": "Arctic Ice Wolf",
+    "creator": "NeonDesigns",
     "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar8.png",
-    "price": 160,
+    "price": 65,
     "verified": true
   },
   {
     "id": 9,
-    "name": "Y2K Blue Boy",
-    "creator": "bestcheapfits",
+    "name": "Crimson Blood Hunter",
+    "creator": "CosmicCreations",
     "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar9.png",
-    "price": 84,
+    "price": 880,
     "verified": true
   },
   {
     "id": 10,
-    "name": "Grunge King",
-    "creator": "06angel",
+    "name": "Electric Storm Rider",
+    "creator": "DarkModeLabs",
     "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar10.png",
-    "price": 110,
-    "verified": true
-  },
-  {
-    "id": 11,
-    "name": "Galaxy Hacker",
-    "creator": "SleepyZWo",
-    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar11.png",
-    "price": 99,
+    "price": 1500,
     "verified": false
   },
   {
+    "id": 11,
+    "name": "Cosmic Star Walker",
+    "creator": "FrostByteStudio",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar11.png",
+    "price": 340,
+    "verified": true
+  },
+  {
     "id": 12,
-    "name": "Frozen Emo",
-    "creator": "Void Studios",
+    "name": "Void Demon King",
+    "creator": "FlameForge",
     "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar12.png",
-    "price": 130,
+    "price": 2750,
     "verified": true
   },
   {
     "id": 13,
-    "name": "Crimson Valk",
-    "creator": "Elite Market",
+    "name": "Emerald Forest Guardian",
+    "creator": "ShadowWorks",
     "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar13.png",
-    "price": 250,
-    "verified": true
-  },
-  {
-    "id": 14,
-    "name": "Shadow Rich",
-    "creator": "Luxury RBX",
-    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar14.png",
-    "price": 145,
+    "price": 199,
     "verified": false
   },
   {
-    "id": 15,
-    "name": "Neon Assassin",
-    "creator": "Cyber Labs",
-    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar15.png",
-    "price": 170,
+    "id": 14,
+    "name": "Ruby Flame Princess",
+    "creator": "LightBrigade",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar14.png",
+    "price": 4200,
     "verified": true
   },
   {
+    "id": 15,
+    "name": "Sapphire Ocean Mage",
+    "creator": "EliteSkins Co",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar15.png",
+    "price": 560,
+    "verified": false
+  },
+  {
     "id": 16,
-    "name": "Midnight Slender",
-    "creator": "Dark Studio",
+    "name": "Diamond Sparkle",
+    "creator": "ValkyrieDesign",
     "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar16.png",
-    "price": 115,
+    "price": 75,
     "verified": true
   },
   {
     "id": 17,
-    "name": "Void Angel",
-    "creator": "RBX Heaven",
+    "name": "Obsidian Night Stalker",
+    "creator": "DragonArt HQ",
     "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar17.png",
-    "price": 190,
+    "price": 1890,
     "verified": true
   },
   {
     "id": 18,
-    "name": "Cyber Samurai",
-    "creator": "Neon Studio",
+    "name": "Platinum Elite Pro",
+    "creator": "PhoenixRising",
     "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar18.png",
-    "price": 140,
+    "price": 2400,
     "verified": false
   },
   {
     "id": 19,
-    "name": "Dark Hacker",
-    "creator": "SleepyZWo",
+    "name": "Copper Rust Warrior",
+    "creator": "StarCraftMods",
     "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar19.png",
-    "price": 155,
+    "price": 110,
     "verified": true
   },
   {
     "id": 20,
-    "name": "Luxury Valk",
-    "creator": "Elite Market",
+    "name": "Silver Moon Knight",
+    "creator": "VoidEntertainment",
     "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar20.png",
-    "price": 260,
-    "verified": true
+    "price": 670,
+    "verified": false
   },
   {
     "id": 21,
-    "name": "Anime Slayer",
-    "creator": "Anime Wear",
+    "name": "Rainbow Prism Cat",
+    "creator": "CrystalClear",
     "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar21.png",
-    "price": 125,
+    "price": 1350,
+    "verified": true
+  },
+  {
+    "id": 22,
+    "name": "Galaxy Nebula Fox",
+    "creator": "RubyRedesign",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar22.png",
+    "price": 290,
+    "verified": true
+  },
+  {
+    "id": 23,
+    "name": "Pixel Retro Gamer",
+    "creator": "SapphireSky",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar23.png",
+    "price": 4100,
     "verified": false
+  },
+  {
+    "id": 24,
+    "name": "Cyber Punk Hacker",
+    "creator": "EmeraldEdge",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar24.png",
+    "price": 95,
+    "verified": true
+  },
+  {
+    "id": 25,
+    "name": "Steampunk Clockwork",
+    "creator": "DiamondDust",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar25.png",
+    "price": 1780,
+    "verified": false
+  },
+  {
+    "id": 26,
+    "name": "Pirate Captain Gold",
+    "creator": "ObsidianOutfit",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar26.png",
+    "price": 520,
+    "verified": true
+  },
+  {
+    "id": 27,
+    "name": "Ninja Shadow Blade",
+    "creator": "PlatinumPlus",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar27.png",
+    "price": 3650,
+    "verified": true
+  },
+  {
+    "id": 28,
+    "name": "Samurai Honor Guard",
+    "creator": "SilverLine",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar28.png",
+    "price": 140,
+    "verified": false
+  },
+  {
+    "id": 29,
+    "name": "Viking Frost Berserker",
+    "creator": "GoldenTouch",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar29.png",
+    "price": 2250,
+    "verified": true
+  },
+  {
+    "id": 30,
+    "name": "Egyptian Pharaoh King",
+    "creator": "BronzeAge",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar30.png",
+    "price": 380,
+    "verified": false
+  },
+  {
+    "id": 31,
+    "name": "Roman Gladiator Max",
+    "creator": "RainbowRush",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar31.png",
+    "price": 1999,
+    "verified": true
+  },
+  {
+    "id": 32,
+    "name": "Greek Myth Hero",
+    "creator": "GalaxyGears",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar32.png",
+    "price": 72,
+    "verified": true
+  },
+  {
+    "id": 33,
+    "name": "Alien UFO Invader",
+    "creator": "PixelPerfect",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar33.png",
+    "price": 3100,
+    "verified": false
+  },
+  {
+    "id": 34,
+    "name": "Robot Mech Titan",
+    "creator": "CyberCraft",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar34.png",
+    "price": 445,
+    "verified": true
+  },
+  {
+    "id": 35,
+    "name": "Zombie Apocalypse Survivor",
+    "creator": "SteamStyle",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar35.png",
+    "price": 890,
+    "verified": false
+  },
+  {
+    "id": 36,
+    "name": "Vampire Blood Count",
+    "creator": "PirateParadise",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar36.png",
+    "price": 1560,
+    "verified": true
+  },
+  {
+    "id": 37,
+    "name": "Werewolf Full Moon",
+    "creator": "NinjaNation",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar37.png",
+    "price": 230,
+    "verified": true
+  },
+  {
+    "id": 38,
+    "name": "Ghost Haunted Spirit",
+    "creator": "SamuraiSoul",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar38.png",
+    "price": 4890,
+    "verified": false
+  },
+  {
+    "id": 39,
+    "name": "Witch Potion Brewer",
+    "creator": "VikingValor",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar39.png",
+    "price": 165,
+    "verified": true
+  },
+  {
+    "id": 40,
+    "name": "Wizard Arcane Master",
+    "creator": "EgyptianEra",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar40.png",
+    "price": 720,
+    "verified": false
+  },
+  {
+    "id": 41,
+    "name": "Fairy Dream Dust",
+    "creator": "RomanRealm",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar41.png",
+    "price": 1980,
+    "verified": true
+  },
+  {
+    "id": 42,
+    "name": "Unicorn Rainbow Magic",
+    "creator": "GreekGods",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar42.png",
+    "price": 55,
+    "verified": true
+  },
+  {
+    "id": 43,
+    "name": "Dragon Scale Armor",
+    "creator": "AlienAlliance",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar43.png",
+    "price": 3340,
+    "verified": false
+  },
+  {
+    "id": 44,
+    "name": "Phoenix Rebirth Flame",
+    "creator": "RobotRepublic",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar44.png",
+    "price": 410,
+    "verified": true
+  },
+  {
+    "id": 45,
+    "name": "Griffin Sky Lord",
+    "creator": "ZombieZone",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar45.png",
+    "price": 2675,
+    "verified": false
+  },
+  {
+    "id": 46,
+    "name": "Hydra Multi Head",
+    "creator": "VampireVault",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar46.png",
+    "price": 180,
+    "verified": true
+  },
+  {
+    "id": 47,
+    "name": "Kraken Deep Sea",
+    "creator": "WerewolfWear",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar47.png",
+    "price": 920,
+    "verified": true
+  },
+  {
+    "id": 48,
+    "name": "Leviathan Ocean Beast",
+    "creator": "GhostGallery",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar48.png",
+    "price": 3750,
+    "verified": false
+  },
+  {
+    "id": 49,
+    "name": "Minotaur Labyrinth",
+    "creator": "WitchWearhouse",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar49.png",
+    "price": 125,
+    "verified": true
+  },
+  {
+    "id": 50,
+    "name": "Centaur Forest Archer",
+    "creator": "WizardWorld",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar50.png",
+    "price": 2010,
+    "verified": false
+  },
+  {
+    "id": 51,
+    "name": "Medusa Stone Gaze",
+    "creator": "FairyFashion",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar51.png",
+    "price": 495,
+    "verified": true
+  },
+  {
+    "id": 52,
+    "name": "Cerberus Hell Hound",
+    "creator": "UnicornUnion",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar52.png",
+    "price": 2890,
+    "verified": true
+  },
+  {
+    "id": 53,
+    "name": "Thor Thunder God",
+    "creator": "DragonDen",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar53.png",
+    "price": 88,
+    "verified": false
+  },
+  {
+    "id": 54,
+    "name": "Loki Trickster Fox",
+    "creator": "PhoenixPlace",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar54.png",
+    "price": 1640,
+    "verified": true
+  },
+  {
+    "id": 55,
+    "name": "Odin All Father",
+    "creator": "GriffinGear",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar55.png",
+    "price": 3325,
+    "verified": false
+  },
+  {
+    "id": 56,
+    "name": "Freya Battle Maiden",
+    "creator": "HydraHub",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar56.png",
+    "price": 210,
+    "verified": true
+  },
+  {
+    "id": 57,
+    "name": "Anubis Death Judge",
+    "creator": "KrakenKreations",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar57.png",
+    "price": 775,
+    "verified": true
+  },
+  {
+    "id": 58,
+    "name": "Ra Sun Pharaoh",
+    "creator": "LeviathanLine",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar58.png",
+    "price": 4560,
+    "verified": false
+  },
+  {
+    "id": 59,
+    "name": "Horus Sky Falcon",
+    "creator": "MinotaurMods",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar59.png",
+    "price": 99,
+    "verified": true
+  },
+  {
+    "id": 60,
+    "name": "Bastet Cat Goddess",
+    "creator": "CentaurCloth",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar60.png",
+    "price": 1180,
+    "verified": false
+  },
+  {
+    "id": 61,
+    "name": "Kitsune Nine Tail",
+    "creator": "MedusaMakeup",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar61.png",
+    "price": 2450,
+    "verified": true
+  },
+  {
+    "id": 62,
+    "name": "Oni Demon Mask",
+    "creator": "CerberusCloset",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar62.png",
+    "price": 130,
+    "verified": true
+  },
+  {
+    "id": 63,
+    "name": "Yokai Spirit Fox",
+    "creator": "ThunderTeam",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar63.png",
+    "price": 3890,
+    "verified": false
+  },
+  {
+    "id": 64,
+    "name": "Ronin Lone Wolf",
+    "creator": "TricksterTrades",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar64.png",
+    "price": 68,
+    "verified": true
+  },
+  {
+    "id": 65,
+    "name": "Shogun War Lord",
+    "creator": "OdinOutfits",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar65.png",
+    "price": 1525,
+    "verified": false
+  },
+  {
+    "id": 66,
+    "name": "Geisha Cherry Blossom",
+    "creator": "FreyaFashion",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar66.png",
+    "price": 2780,
+    "verified": true
+  },
+  {
+    "id": 67,
+    "name": "Sumo Ring Champion",
+    "creator": "AnubisAttire",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar67.png",
+    "price": 195,
+    "verified": true
+  },
+  {
+    "id": 68,
+    "name": "Kung Fu Master Panda",
+    "creator": "RaRaiment",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar68.png",
+    "price": 940,
+    "verified": false
+  },
+  {
+    "id": 69,
+    "name": "Cowboy Wild West",
+    "creator": "HorusHaberdashery",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar69.png",
+    "price": 4210,
+    "verified": true
+  },
+  {
+    "id": 70,
+    "name": "Sheriff Law Badge",
+    "creator": "BastetBoutique",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar70.png",
+    "price": 82,
+    "verified": false
+  },
+  {
+    "id": 71,
+    "name": "Outlaw Bandit Mask",
+    "creator": "KitsuneKloset",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar71.png",
+    "price": 1675,
+    "verified": true
+  },
+  {
+    "id": 72,
+    "name": "Gangster Prohibition",
+    "creator": "OniOutfitters",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar72.png",
+    "price": 3050,
+    "verified": true
+  },
+  {
+    "id": 73,
+    "name": "Mafia Boss Suit",
+    "creator": "YokaiYarn",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar73.png",
+    "price": 150,
+    "verified": false
+  },
+  {
+    "id": 74,
+    "name": "Detective Noir Case",
+    "creator": "RoninRags",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar74.png",
+    "price": 810,
+    "verified": true
+  },
+  {
+    "id": 75,
+    "name": "Spy Secret Agent",
+    "creator": "ShogunStyle",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar75.png",
+    "price": 3680,
+    "verified": false
+  },
+  {
+    "id": 76,
+    "name": "Assassin Silent Kill",
+    "creator": "GeishaGlam",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar76.png",
+    "price": 105,
+    "verified": true
+  },
+  {
+    "id": 77,
+    "name": "Mercenary Gun For Hire",
+    "creator": "SumoSuits",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar77.png",
+    "price": 2140,
+    "verified": true
+  },
+  {
+    "id": 78,
+    "name": "Soldier Battle Ready",
+    "creator": "PandaPants",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar78.png",
+    "price": 4750,
+    "verified": false
+  },
+  {
+    "id": 79,
+    "name": "General Command Star",
+    "creator": "CowboyClothes",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar79.png",
+    "price": 77,
+    "verified": true
+  },
+  {
+    "id": 80,
+    "name": "Admiral Fleet Captain",
+    "creator": "SheriffShop",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar80.png",
+    "price": 1290,
+    "verified": false
+  },
+  {
+    "id": 81,
+    "name": "Pilot Ace Flyer",
+    "creator": "OutlawOutfits",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar81.png",
+    "price": 2560,
+    "verified": true
+  },
+  {
+    "id": 82,
+    "name": "Astronaut Space Walk",
+    "creator": "GangsterGear",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar82.png",
+    "price": 220,
+    "verified": true
+  },
+  {
+    "id": 83,
+    "name": "Scientist Lab Coat",
+    "creator": "MafiaMods",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar83.png",
+    "price": 695,
+    "verified": false
+  },
+  {
+    "id": 84,
+    "name": "Doctor Medical Pro",
+    "creator": "DetectiveDress",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar84.png",
+    "price": 3950,
+    "verified": true
+  },
+  {
+    "id": 85,
+    "name": "Chef Kitchen King",
+    "creator": "SpyStyles",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar85.png",
+    "price": 92,
+    "verified": false
+  },
+  {
+    "id": 86,
+    "name": "Artist Paint Brush",
+    "creator": "AssassinAttire",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar86.png",
+    "price": 1835,
+    "verified": true
+  },
+  {
+    "id": 87,
+    "name": "Musician Rock Star",
+    "creator": "MercenaryMods",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar87.png",
+    "price": 2710,
+    "verified": true
+  },
+  {
+    "id": 88,
+    "name": "Dancer Groove Move",
+    "creator": "SoldierSuits",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar88.png",
+    "price": 160,
+    "verified": false
+  },
+  {
+    "id": 89,
+    "name": "Athlete Sports Pro",
+    "creator": "GeneralGear",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar89.png",
+    "price": 850,
+    "verified": true
+  },
+  {
+    "id": 90,
+    "name": "Boxer Ring Fighter",
+    "creator": "AdmiralApparel",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar90.png",
+    "price": 4380,
+    "verified": false
+  },
+  {
+    "id": 91,
+    "name": "Wrestler Power Slam",
+    "creator": "PilotParachute",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar91.png",
+    "price": 115,
+    "verified": true
+  },
+  {
+    "id": 92,
+    "name": "Skater Board Trick",
+    "creator": "AstroAttire",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar92.png",
+    "price": 1960,
+    "verified": true
+  },
+  {
+    "id": 93,
+    "name": "Surfer Wave Rider",
+    "creator": "ScienceStyles",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar93.png",
+    "price": 3180,
+    "verified": false
+  },
+  {
+    "id": 94,
+    "name": "Snowboard Mountain Pro",
+    "creator": "DoctorDress",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar94.png",
+    "price": 185,
+    "verified": true
+  },
+  {
+    "id": 95,
+    "name": "Skier Alpine Speed",
+    "creator": "ChefChic",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar95.png",
+    "price": 725,
+    "verified": false
+  },
+  {
+    "id": 96,
+    "name": "Climber Peak Summit",
+    "creator": "ArtistApron",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar96.png",
+    "price": 4025,
+    "verified": true
+  },
+  {
+    "id": 97,
+    "name": "Explorer Jungle Trek",
+    "creator": "MusicianMods",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar97.png",
+    "price": 70,
+    "verified": true
+  },
+  {
+    "id": 98,
+    "name": "Archaeologist Dig Site",
+    "creator": "DancerDress",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar98.png",
+    "price": 1410,
+    "verified": false
+  },
+  {
+    "id": 99,
+    "name": "Paleontologist Dino Dig",
+    "creator": "AthleteApparel",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar99.png",
+    "price": 2895,
+    "verified": true
+  },
+  {
+    "id": 100,
+    "name": "Astronomer Star Map",
+    "creator": "BoxerBrand",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar100.png",
+    "price": 205,
+    "verified": false
+  },
+  {
+    "id": 101,
+    "name": "Biologist Nature Study",
+    "creator": "WrestlerWear",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar101.png",
+    "price": 965,
+    "verified": true
+  },
+  {
+    "id": 102,
+    "name": "Chemist Element Mix",
+    "creator": "SkaterSkins",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar102.png",
+    "price": 4650,
+    "verified": true
   }
 ]
