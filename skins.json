@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Dark Fallen Valk",
     "creator": "RBX Premium",
-    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/AVATAR1.jpg",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar1.png",
     "price": 120,
     "verified": true
   },
@@ -11,8 +11,120 @@
     "id": 2,
     "name": "Sammy",
     "creator": "Void Studios",
-    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar2.jpg",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar2.png",
     "price": 95,
+    "verified": true
+  },
+  {
+    "id": 3,
+    "name": "Cyber Ninja",
+    "creator": "RBX Elite",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar3.png",
+    "price": 150,
+    "verified": true
+  },
+  {
+    "id": 4,
+    "name": "Toxic Slender",
+    "creator": "Dark Studio",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar4.png",
+    "price": 88,
+    "verified": false
+  },
+  {
+    "id": 5,
+    "name": "White Valk",
+    "creator": "Snow Labs",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar5.png",
+    "price": 175,
+    "verified": true
+  },
+  {
+    "id": 6,
+    "name": "Rich Hood",
+    "creator": "Luxury RBX",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar6.png",
+    "price": 210,
+    "verified": true
+  },
+  {
+    "id": 7,
+    "name": "Anime Ghost",
+    "creator": "Anime Wear",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar7.png",
+    "price": 135,
+    "verified": false
+  },
+  {
+    "id": 8,
+    "name": "Void Samurai",
+    "creator": "Shadow Team",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar8.png",
+    "price": 160,
+    "verified": true
+  },
+  {
+    "id": 9,
+    "name": "Y2K Blue Boy",
+    "creator": "bestcheapfits",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar9.png",
+    "price": 84,
+    "verified": true
+  },
+  {
+    "id": 10,
+    "name": "Grunge King",
+    "creator": "06angel",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar10.png",
+    "price": 110,
+    "verified": true
+  },
+  {
+    "id": 11,
+    "name": "Galaxy Hacker",
+    "creator": "SleepyZWo",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar11.png",
+    "price": 99,
+    "verified": false
+  },
+  {
+    "id": 12,
+    "name": "Frozen Emo",
+    "creator": "Void Studios",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar12.png",
+    "price": 130,
+    "verified": true
+  },
+  {
+    "id": 13,
+    "name": "Crimson Valk",
+    "creator": "Elite Market",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar13.png",
+    "price": 250,
+    "verified": true
+  },
+  {
+    "id": 14,
+    "name": "Shadow Rich",
+    "creator": "Luxury RBX",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar14.png",
+    "price": 145,
+    "verified": false
+  },
+  {
+    "id": 15,
+    "name": "Neon Assassin",
+    "creator": "Cyber Labs",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar15.png",
+    "price": 170,
+    "verified": true
+  },
+  {
+    "id": 16,
+    "name": "Midnight Slender",
+    "creator": "Dark Studio",
+    "image": "https://raw.githubusercontent.com/cesarvazquezrmz24-ai/rbxskins/main/avatar16.png",
+    "price": 115,
     "verified": true
   }
 ]
